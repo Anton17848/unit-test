@@ -17,5 +17,4 @@
 13. npm install --save-dev style-loader
 14. npm install --save-dev webpack
 15. npm install --save-dev webpack-cli
-16. ...                     webpack-dev-server
-css-loader
+16. npm install --save-dev  webpack-dev-server    
