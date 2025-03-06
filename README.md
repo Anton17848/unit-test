@@ -1,6 +1,6 @@
 # unit-test
 
-[![Build status](https://ci.appveyor.com/api/projects/status/fld59xpcifx6oet0?svg=true)](https://ci.appveyor.com/project/Anton17848/unit-test)
+[![Build status](https://ci.appveyor.com/api/projects/status/fld59xpcifx6oet0?svg=true)](https://ci.appveyor.com/project/Anton17848/dz-classes)
 
 1. npm init
 2. npm install --save-dev jest
