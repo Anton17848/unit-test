@@ -1,10 +1,10 @@
-import Character from '../character.js';
-import Bowman from '../bowman.js';
-import Daemon from '../daemon.js';
-import Magician from '../magician.js';
-import Swordsman from '../swordsman.js';
-import Undead from '../undead.js';
-import Zombie from '../zombie.js';
+import Character from '../js/character.js';
+import Bowman from '../js/bowman.js';
+import Daemon from '../js/daemon.js';
+import Magician from '../js/magician.js';
+import Swordsman from '../js/swordsman.js';
+import Undead from '../js/undead.js';
+import Zombie from '../js/zombie.js';
 
 test('Invalid name -> too short', () => {
     expect(
